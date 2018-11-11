@@ -1,0 +1,22 @@
+
+Venue: Times Union Center Location: Albany, NY Date: March 18, 2019 7:00 PM
+=========================================================
+Venue: TD Garden Location: Boston, MA Date: March 20, 2019 7:00 PM
+=========================================================
+Venue: KeyBank Center Location: Buffalo, NY Date: March 22, 2019 7:00 PM
+=========================================================
+Venue: Capitol One Arena Location: Washington, DC Date: March 25, 2019 7:00 PM
+=========================================================
+Artist: Ariana Grande
+Prewiew URL: https://open.spotify.com/album/684W6NpKllEexqQlGqetCi
+Album: thank u, next
+=========================================================
+Title: Titanic
+Year: 1997
+Movie rating: 7.8
+Rotten tomatoes rating: 89%
+Country produced: USA
+Language of the movie: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+=========================================================
