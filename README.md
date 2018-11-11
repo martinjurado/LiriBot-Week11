@@ -25,6 +25,8 @@ returns information of given song using spotify API
 * Link of song preview on Spotify
 * Album
 
+![](images/spotify-this-song.png)
+
 3. movie-this
 
 *node liri.js movie-this "any movie"*
@@ -40,10 +42,16 @@ returns movie information using OMDB API
 * Plot
 * Actors
 
+![](images/movie-this.png)
+
 4. do-what-it-says
 
 *node liri.js do-what-it-says*
 
 reads file random.txt by requiring 'fs' and then call the command spotify-this-song
 
+![](images/do-it.png)
 
+After reading the commands in the terminal, the information will be read in the log.txt requiring the fs 
+
+![](images/log.png)
