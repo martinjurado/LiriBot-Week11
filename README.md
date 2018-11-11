@@ -14,7 +14,7 @@
  * Location
  * Date and Time
  
- ![screenshot](/images/concert-this.jpg?raw=true "Optional Title")
+![Alt text](relative/path/to/concert-this.png?raw=true "Title")
 
 2. spotify-this-song
 
@@ -45,7 +45,5 @@ returns movie information using OMDB API
 *node liri.js do-what-it-says*
 
 reads file random.txt by requiring 'fs' and then call the command spotify-this-song
-=======
 
->>>>>>> 96319b15354caf3083b5ab1ba179bfaaf48a9c57
 
