@@ -10,7 +10,7 @@
 
 *node liri.js concert-this "artist name"*
 
-![alt text](http://url/to/concert-this.png)
+![)(liri-node-app/images/filename:liribot.png)
 
 2. *spotify-this-song*
 3. *movie-this*
