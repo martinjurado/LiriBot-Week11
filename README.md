@@ -10,7 +10,7 @@
 
 *node liri.js concert-this "artist name"*
 
-![)(liri-node-app/images/filename:liribot.png)
+![](liri-node-app/images/filename:liribot.png)
 
 2. *spotify-this-song*
 3. *movie-this*
