@@ -8,12 +8,21 @@
 **List of Commands**
 1. concert-this
 
-...*node liri.js concert-this "artist name"*
+*node liri.js concert-this "artist name"*
  
- returns concert info such as (venue, location, date)
- 
- 
+ returns concert info using bandsintown API
+ * Venue
+ * Location
+ * Date and Time
 
 2. *spotify-this-song*
+
+*node liri.js spotify-this-song "any song"*
+
+returns information of given song using spotify API
+* Artist Name
+* Link of song preview on Spotify
+* Album
+
 3. *movie-this*
 4. *do-what-it-says*
