@@ -25,7 +25,7 @@ returns information of given song using spotify API
 * Link of song preview on Spotify
 * Album
 
-![](images/spotify-this-song.png)
+![](images/spotify.png)
 
 3. movie-this
 
