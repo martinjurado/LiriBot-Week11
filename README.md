@@ -7,6 +7,11 @@
 
 **List of Commands**
 1. *concert-this*
-2. spotify-this-song
-3. movie-this
-4. do-what-it-says
+
+*node liri.js concert-this "artist name"*
+
+![alt text](http://url/to/concert-this.png)
+
+2. *spotify-this-song*
+3. *movie-this*
+4. *do-what-it-says*
