@@ -1,6 +1,4 @@
 # liri-node-app
-<<<<<<< HEAD
-# liri-node-app
 
 ***
 
