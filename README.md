@@ -14,7 +14,7 @@
  * Location
  * Date and Time
  
-![Alt text](relative/path/to/concert-this.png?raw=true "Title")
+![](images/concert-this.png)
 
 2. spotify-this-song
 
