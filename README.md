@@ -10,7 +10,7 @@
 
 *node liri.js concert-this "artist name"*
 
-<img src="liri-node-app/images/concert-this.png"
+<img src="liri-node-app/images/concert-this.png">
 
 2. *spotify-this-song*
 3. *movie-this*
