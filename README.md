@@ -1,6 +1,6 @@
 # liri-node-app
 
-**What does it do?** 
+## Overview
 * LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 ## List of Commands
@@ -55,3 +55,9 @@ reads file random.txt by requiring 'fs' and then call the command spotify-this-s
 After reading the commands in the terminal, the information will be read in the log.txt requiring the fs 
 
 ![](images/log.png)
+
+
+## Technologies: 
+- Node.js
+- jQuery
+- 3rd Party API (Bands in town API, Spotify API)
